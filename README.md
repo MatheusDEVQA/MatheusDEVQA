@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatheusDEVQA
-- 👀 I’m interested in engenharia de software
+- 👀 I’m interested in Software engineer
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on automation tests 
 - 📫 How to reach me ...
 
 <!---
