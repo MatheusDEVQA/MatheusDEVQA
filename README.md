@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatheusDEVQA
-- 👀 I’m interested in Software engineer
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Software Quality Engineer
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on automation tests 
 - 📫 How to reach me in https://www.linkedin.com/in/matheus-tester-carvalho/
 
